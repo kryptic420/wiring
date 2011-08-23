@@ -1,3 +1,1 @@
-#summary One-sentence summary of this page.
-
 You can find the Wiring Wiki here: http://wiki.wiring.co/
